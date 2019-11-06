@@ -6,6 +6,7 @@
 你只需要保证一个URL可以被加密成一个TinyURL，并且这个TinyURL可以用解密方法恢复成原本的URL。
 """
 
+
 class Codec:
 
     def encode(self, longUrl: str) -> str:

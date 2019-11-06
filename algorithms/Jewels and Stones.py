@@ -12,6 +12,3 @@ class Solution:
         return len([i for i in S if i in J])
 
 
-if __name__ == '__main__':
-    solution = Solution()
-    print(solution.numJewelsInStones("z","ZZZZ"))
