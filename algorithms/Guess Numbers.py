@@ -13,6 +13,3 @@ class Solution:
 if __name__ == '__main__':
     solution = Solution()
     print(solution.game([1,2,3],[1,2,3]))
-
-
-
