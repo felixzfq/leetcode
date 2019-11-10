@@ -11,4 +11,7 @@
 |189|[Rotate Array](https://leetcode-cn.com/problems/rotate-array/) | [Python](algorithms/Rotate%20Array.py)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) |
 |88|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/) |
+|641|[Design Circular Deque](https://leetcode-cn.com/problems/design-circular-deque/) |
+|42|[Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/) |
+
 
