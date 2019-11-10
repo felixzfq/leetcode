@@ -22,8 +22,8 @@ class Solution:
 
 
 # 解2，3次翻转，空间复杂度O(1)
-class Solution(object):
-    def rotate(self, nums, k):
+class Solution:
+    def rotate(self, nums: list, k: int) -> None:
         k, start, end = k % len(nums), 0, len(nums) - 1
         self._reverse(nums, start, end - k)
         self._reverse(nums, end-k+1, end)
