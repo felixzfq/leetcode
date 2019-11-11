@@ -13,5 +13,6 @@
 |88|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/) |
 |641|[Design Circular Deque](https://leetcode-cn.com/problems/design-circular-deque/) |
 |42|[Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/) |
+|242|[Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/description/) |
 
 
