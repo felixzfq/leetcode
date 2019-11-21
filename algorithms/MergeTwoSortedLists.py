@@ -7,14 +7,17 @@
 输出：1->1->2->3->4->4
 """
 
-# Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, x):
-#         self.val = x
-#         self.next = None
 
-class Solution:
-    def mergeTwoLists(self, l1, l2):
+# Definition for singly-linked list.
+class ListNode:
+    def __init__(self, x):
+        self.val = x
+        self.next = None
+
+
+# 解1，时间复杂度O(m+n)，空间复杂度O(m+n)
+class Solution1:
+    def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
         if l1 is None:
             return l2
         elif l2 is None:
@@ -26,3 +29,8 @@ class Solution:
             l2.next = self.mergeTwoLists(l1, l2.next)
             return l2
 
+
+# 解2，
+class Solution2:
+    def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
+        pass

@@ -10,7 +10,7 @@
 |26|[Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [Python](algorithms/RemoveDuplicatesfromSortedArray.py)|Easy|
 |189|[Rotate Array](https://leetcode-cn.com/problems/rotate-array/) | [Python](algorithms/RotateArray.py)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Python](algorithms/MergeTwoSortedLists.py)|Easy|
-|88|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/) |
+|88|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/) | [Python](algorithms/MergeSortedArray.py)|Easy|
 |641|[Design Circular Deque](https://leetcode-cn.com/problems/design-circular-deque/) |
 |42|[Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/) |
 |242|[Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/description/) |
