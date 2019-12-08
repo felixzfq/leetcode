@@ -6,7 +6,7 @@
 """
 
 # 解1，时间复杂度O(n²)
-class Solution:
+class Solution1:
     def removeDuplicates(self, nums: list) -> int:
         for i in range(len(nums)-1,0,-1):
             if nums[i] == nums[i-1]:
@@ -15,7 +15,7 @@ class Solution:
 
 
 # 解2，时间复杂度O(n)
-class Solution:
+class Solution2:
     def removeDuplicates(self, nums: list) -> int:
         i = 0
         for j in range(0,len(nums)):

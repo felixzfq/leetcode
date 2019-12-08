@@ -14,7 +14,7 @@
 
 
 # 解1,数组拼接，空间复杂度O(n)
-class Solution:
+class Solution1:
     def rotate(self, nums: list, k: int) -> None:
         k %= len(nums)
         nums[:] = nums[-k:] + nums[:-k]
@@ -22,7 +22,7 @@ class Solution:
 
 
 # 解2，3次翻转，空间复杂度O(1)
-class Solution:
+class Solution2:
     def rotate(self, nums: list, k: int) -> None:
         k, start, end = k % len(nums), 0, len(nums) - 1
         self._reverse(nums, start, end - k)
