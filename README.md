@@ -17,3 +17,10 @@
 |242|[Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/description/) |
 
 
+
+### LeetCode Database
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|175|[Combine Two Tables](https://leetcode-cn.com/problems/combine-two-tables/) | [Mysql](database/CombineTwoTables.sql) |Easy|
+|176|[Second Highest Salary](https://leetcode-cn.com/problems/second-highest-salary/) | 
