@@ -26,5 +26,5 @@
 |---| ----- | -------- | ---------- |
 |175|[Combine Two Tables](https://leetcode-cn.com/problems/combine-two-tables/) | [Mysql](database/CombineTwoTables.sql) |Easy|
 |176|[Second Highest Salary](https://leetcode-cn.com/problems/second-highest-salary/) | [Mysql](database/SecondHighestSalary.sql) |Easy|
-|177|[Nth Highest Salary](https://leetcode-cn.com/problems/nth-highest-salary/) | [Mysql](database/SecondHighestSalary.sql) |Medium|
+|177|[Nth Highest Salary](https://leetcode-cn.com/problems/nth-highest-salary/) | [Mysql](database/NthHighestSalary.sql) |Medium|
 |181|[Employees Earning More Than Their Managers](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers/) | [Mysql](database/EmployeesEarningMoreThanTheirManagers.sql) |Easy|
