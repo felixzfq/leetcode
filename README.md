@@ -7,6 +7,7 @@
 |1|[Two Sum](https://leetcode-cn.com/problems/two-sum/) | [Python](algorithms/python/TwoSum.py)<br>[Java](algorithms/java/src/TwoSum.java)|Easy|
 |2|[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/) | [Python](algorithms/python/AddTwoNumbers.py)|Medium|
 |7|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/) | [Python](algorithms/python/ReverseInteger.py)|Easy|
+|9|[Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/) | [Python](algorithms/python/PalindromeNumber.py)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Python](algorithms/python/MergeTwoSortedLists.py)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [Python](algorithms/python/RemoveDuplicatesfromSortedArray.py)|Easy|
 |42|[Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/) |
