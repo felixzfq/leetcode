@@ -26,6 +26,7 @@ C 可以放在 D (500) 和 M (1000) 的左边，来表示 400 和 900。
 
 
 class Solution:
+    # 解1，时间复杂度O(n)
     def romanToInt(self, s: str) -> int:
         roman_dir = {
             "I":1,
@@ -36,11 +37,15 @@ class Solution:
             "D":500,
             "M":1000
         }
-        s_list = list(s)
-        for i in range(len(s_list)):
-            pass
+        sum = roman_dir[s[-1]]
+        for i in range(len(s)-1):
+            if roman_dir[s[i]] >= roman_dir[s[i+1]]:
+                sum += roman_dir[s[i]]
+            else:
+                sum -= roman_dir[s[i]]
+        return sum
 
 
 if __name__ == "__main__":
     solution = Solution()
-    solution.romanToInt("XXVII")
+    print(solution.romanToInt("MCMXCIV"))
