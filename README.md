@@ -9,6 +9,7 @@
 |7|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/) | [Python](algorithms/python/ReverseInteger.py)|Easy|
 |9|[Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/) | [Python](algorithms/python/PalindromeNumber.py)|Easy|
 |13|[Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/) | [Python](algorithms/python/RomantoInteger.py)|Easy|
+|14|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/) | [Python](algorithms/python/LongestCommonPrefix.py)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Python](algorithms/python/MergeTwoSortedLists.py)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [Python](algorithms/python/RemoveDuplicatesfromSortedArray.py)|Easy|
 |42|[Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/) |
