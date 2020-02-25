@@ -8,7 +8,6 @@ class Solution:
         prefix = strs[0]
         for i in range(1,len(strs)):
             while strs[i].find(prefix) != 0:
-                print(strs[i].find(prefix))
                 prefix = prefix[:-1]
                 if prefix == 0:
                     return ""
@@ -18,3 +17,4 @@ class Solution:
 if __name__ == "__main__":
     solution = Solution()
     print(solution.longestCommonPrefix(["c","acc","ccc"]))
+    
