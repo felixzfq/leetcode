@@ -32,3 +32,10 @@
 |176|[Second Highest Salary](https://leetcode-cn.com/problems/second-highest-salary/) | [Mysql](database/SecondHighestSalary.sql) |Easy|
 |177|[Nth Highest Salary](https://leetcode-cn.com/problems/nth-highest-salary/) | [Mysql](database/NthHighestSalary.sql) |Medium|
 |181|[Employees Earning More Than Their Managers](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers/) | [Mysql](database/EmployeesEarningMoreThanTheirManagers.sql) |Easy|
+
+### LeetCode Shell
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|193|[Valid Phone Numbers](https://leetcode-cn.com/problems/valid-phone-numbers/) | [Bash](shell/ValidPhoneNumbers.sh) |Easy|
+|195|[Tenth Line](https://leetcode-cn.com/problems/tenth-line/) | [Bash](shell/TenthLine.sh) |Easy|
