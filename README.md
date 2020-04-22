@@ -13,12 +13,9 @@
 |21|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Python](algorithms/python/MergeTwoSortedLists.py)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [Python](algorithms/python/RemoveDuplicatesfromSortedArray.py)|Easy|
 |27|[Remove Element](https://leetcode-cn.com/problems/remove-element/) | [Python](algorithms/python/RemoveElement.py)|Easy|
-|42|[Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/) |
 |88|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/) | [Python](algorithms/python/MergeSortedArray.py)|Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](algorithms/python/TwoSumII.py)|Easy|
 |189|[Rotate Array](https://leetcode-cn.com/problems/rotate-array/) | [Python](algorithms/python/RotateArray.py)|Easy|
-|242|[Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/description/) |
-|641|[Design Circular Deque](https://leetcode-cn.com/problems/design-circular-deque/) |
 |771|[Jewels and Stones](https://leetcode-cn.com/problems/jewels-and-stones/) | [Python](algorithms/python/JewelsandStones.py)|Easy|
 |1108|[Defanging an IP Address](https://leetcode-cn.com/problems/defanging-an-ip-address/) | [Python](algorithms/python/DefanginganIPAddress.py)|Easy|
 |LCP1|[Guess Numbers](https://leetcode-cn.com/problems/guess-numbers/) | [Python](algorithms/python/GuessNumbers.py) |Easy|
@@ -33,9 +30,12 @@
 |177|[Nth Highest Salary](https://leetcode-cn.com/problems/nth-highest-salary/) | [Mysql](database/NthHighestSalary.sql) |Medium|
 |181|[Employees Earning More Than Their Managers](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers/) | [Mysql](database/EmployeesEarningMoreThanTheirManagers.sql) |Easy|
 
+
 ### LeetCode Shell
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|192|[Word Frequency](https://leetcode-cn.com/problems/word-frequency/) | [Bash](shell/WordFrequency.sh) |Medium|
 |193|[Valid Phone Numbers](https://leetcode-cn.com/problems/valid-phone-numbers/) | [Bash](shell/ValidPhoneNumbers.sh) |Easy|
+|194|[Transpose File](https://leetcode-cn.com/problems/transpose-file/) | [Bash](shell/TransposeFile.sh) |Easy|
 |195|[Tenth Line](https://leetcode-cn.com/problems/tenth-line/) | [Bash](shell/TenthLine.sh) |Easy|
